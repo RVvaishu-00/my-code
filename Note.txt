@@ -1,4 +1,4 @@
-Wlecome to the Note.txt folder.
+Welcome to the Note.txt folder.
 
 My first day working with Github.
 
