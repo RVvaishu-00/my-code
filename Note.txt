@@ -6,4 +6,7 @@ Aim:
 App development
 Ios development
 
+C-lang.
 Thnaks.
+
+final call
