@@ -2,4 +2,8 @@ Wlecome to the Note.txt folder.
 
 My first day working with Github.
 
+Aim:
+App development
+Ios development
 
+Thnaks.
